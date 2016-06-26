@@ -1,0 +1,20 @@
+.box {
+  display: flex;
+  justify-content: center;
+}
+
+.title{
+  color: #fff;
+}
+
+#box1 {
+  background: #9a9a9a;
+  align-items: center;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+#button {
+  color: #fff;
+  font-family: Monospace, Tahoma, Sans-Serif;
+}
